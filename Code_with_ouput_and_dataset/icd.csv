@@ -1,0 +1,101 @@
+id,description
+A41.54,Sepsis due to Acinetobacter baumannii
+B96.83,Acinetobacter baumannii as the cause of diseases classified elsewhere
+D13.9,Benign neoplasm of ill-defined sites within the digestive system
+D13.91,Familial adenomatous polyposis
+D13.99,Benign neoplasm of ill-defined sites within the digestive system
+D48.1,Neoplasm of uncertain behavior of connective and other soft tissue
+D48.11,Desmoid tumor
+D48.110,Desmoid tumor of head and neck
+D48.111,Desmoid tumor of chest wall
+D48.112,"Desmoid tumor, intrathoracic"
+D48.113,Desmoid tumor of abdominal wall
+D48.114,"Desmoid tumor, intraabdominal"
+D48.115,Desmoid tumor of upper extremity and shoulder girdle
+D48.116,Desmoid tumor of lower extremity and pelvic girdle
+D48.117,Desmoid tumor of back
+D48.118,Desmoid tumor of other site
+D48.119,Desmoid tumor of unspecified site
+D48.19,Other specified neoplasm of uncertain behavior of connective and other soft tissue
+D57.04,Hb-SS disease with dactylitis
+D57.214,Sickle-cell/Hb-C disease with dactylitis
+D57.414,"Sickle-cell thalassemia, unspecified, with dactylitis"
+D57.434,Sickle-cell thalassemia beta zero with dactylitis
+D57.454,Sickle-cell thalassemia beta plus with dactylitis
+D57.814,Other sickle-cell disorders with dactylitis
+D61.02,Shwachman-Diamond syndrome
+D89.84,IgG4-related disease
+E20.8,Other hypoparathyroidism
+E20.81,Hypoparathyroidism due to impaired parathyroid hormone secretion
+E20.810,Autosomal dominant hypocalcemia
+E20.811,Secondary hypoparathyroidism in diseases classified elsewhere
+E20.812,Autoimmune hypoparathyroidism
+E20.818,Other specified hypoparathyroidism due to impaired parathyroid hormone secretion
+E20.819,"Hypoparathyroidism due to impaired parathyroid hormone secretion, unspecified"
+E20.89,Other specified hypoparathyroidism
+E74.05,Lysosome-associated membrane protein 2 [LAMP2] deficiency
+E75.27,Pelizaeus-Merzbacher disease
+E75.28,Canavan disease
+E79.8,Other disorders of purine and pyrimidine metabolism
+E79.81,Aicardi-Gouti?es syndrome
+E79.82,Hereditary xanthinuria
+E79.89,Other specified disorders of purine and pyrimidine metabolism
+E88.43,Disorders of mitochondrial tRNA synthetases
+E88.81,Metabolic syndrome and other insulin resistance
+E88.810,Metabolic syndrome
+E88.811,"Insulin resistance syndrome, Type A"
+E88.818,Other insulin resistance
+E88.819,"Insulin resistance, unspecified"
+E88.A,Wasting disease (syndrome) due to underlying condition
+G11.5,Hypomyelination - hypogonadotropic hypogonadism - hypodontia
+G11.6,Leukodystrophy with vanishing white matter disease
+G20,Parkinson's disease
+G20.A,Parkinson's disease without dyskinesia
+G20.A1,"Parkinson's disease without dyskinesia, without mention of fluctuations"
+G20.A2,"Parkinson's disease without dyskinesia, with fluctuations"
+G20.B,Parkinson's disease with dyskinesia
+G20.B1,"Parkinson's disease with dyskinesia, without mention of fluctuations"
+G20.B2,"Parkinson's disease with dyskinesia, with fluctuations"
+G20.C,"Parkinsonism, unspecified"
+G23.3,Hypomyelination with atrophy of the basal ganglia and cerebellum
+G31.80,"Leukodystrophy, unspecified"
+G31.86,Alexander disease
+G37.8,Other specified demyelinating diseases of central nervous system
+G37.81,Myelin oligodendrocyte glycoprotein antibody disease
+G37.89,Other specified demyelinating diseases of central nervous system
+G40.C,Lafora progressive myoclonus epilepsy
+G40.C0,"Lafora progressive myoclonus epilepsy, not intractable"
+G40.C01,"Lafora progressive myoclonus epilepsy, not intractable, with status epilepticus"
+G40.C09,"Lafora progressive myoclonus epilepsy, not intractable, without status epilepticus"
+G40.C1,"Lafora progressive myoclonus epilepsy, intractable"
+G40.C11,"Lafora progressive myoclonus epilepsy, intractable, with status epilepticus"
+G40.C19,"Lafora progressive myoclonus epilepsy, intractable, without status epilepticus"
+G43.E,Chronic migraine with aura
+G43.E0,"Chronic migraine with aura, not intractable"
+G43.E01,"Chronic migraine with aura, not intractable, with status migrainosus"
+G43.E09,"Chronic migraine with aura, not intractable, without status migrainosus"
+G43.E1,"Chronic migraine with aura, intractable"
+G43.E11,"Chronic migraine with aura, intractable, with status migrainosus"
+G43.E19,"Chronic migraine with aura, intractable, without status migrainosus"
+G90.B,LMNB1-related autosomal dominant leukodystrophy
+G93.42,Megaloencephalic leukoencephalopathy with subcortical cysts
+G93.43,Leukoencephalopathy with calcifications and cysts
+G93.44,Adult-onset leukodystrophy with axonal spheroids
+H36,Retinal disorders in diseases classified elsewhere
+H36.8,Other retinal disorders in diseases classified elsewhere
+H36.81,Nonproliferative sickle-cell retinopathy
+H36.811,"Nonproliferative sickle-cell retinopathy, right eye"
+H36.812,"Nonproliferative sickle-cell retinopathy, left eye"
+H36.813,"Nonproliferative sickle-cell retinopathy, bilateral"
+H36.819,"Nonproliferative sickle-cell retinopathy, unspecified eye"
+H36.82,Proliferative sickle-cell retinopathy
+H36.821,"Proliferative sickle-cell retinopathy, right eye"
+H36.822,"Proliferative sickle-cell retinopathy, left eye"
+H36.823,"Proliferative sickle-cell retinopathy, bilateral"
+H36.829,"Proliferative sickle-cell retinopathy, unspecified eye"
+H36.89,Other retinal disorders in diseases classified elsewhere
+H50.62,Inferior oblique muscle entrapment
+H50.621,"Inferior oblique muscle entrapment, right eye"
+H50.622,"Inferior oblique muscle entrapment, left eye"
+H50.629,"Inferior oblique muscle entrapment, unspecified eye"
+H50.63,Inferior rectus muscle entrapment

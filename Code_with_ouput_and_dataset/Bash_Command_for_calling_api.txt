@@ -1,0 +1,6 @@
+
+# Command to execute python code
+python apin2.py
+
+#Comman to call api and provide input
+curl -X POST http://127.0.0.1:5000/get_closest_ids -H "Content-Type: application/json" -d "{\"text\": \"patient is observing symtoms of resistance to insulin. \", \"N\": 2}"
