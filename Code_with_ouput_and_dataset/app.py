@@ -1,35 +1,21 @@
-
 import streamlit as st
 import pickle
 import nltk
-import requests
 import os
 from io import BytesIO
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 import string
 import pandas as pd
+import requests
 
-import streamlit as st
-import pickle
-import pandas as pd
-import nltk
-import string
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
+# Download necessary NLTK resources
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('wordnet')
 
-# Ensure the app looks in the local nltk_data folder
-nltk.data.path.append('https://github.com/jk-vishwanath/CCSS/tree/main/nltk_data')
-
-# Download necessary NLTK resources (only if not already downloaded)
-nltk.download('punkt', download_dir='https://github.com/jk-vishwanath/CCSS/tree/main/nltk_data')
-nltk.download('stopwords', download_dir='https://github.com/jk-vishwanath/CCSS/tree/main/nltk_data')
-nltk.download('wordnet', download_dir='https://github.com/jk-vishwanath/CCSS/tree/main/nltk_data')
-nltk.download('punkt_tab', download_dir='https://github.com/jk-vishwanath/CCSS/tree/main/nltk_data')
-
-
-# Path to the pickle file
-pickle_url = "https://github.com/jk-vishwanath/Cotiviti_POC/raw/main/Code_with_ouput_and_dataset/model.pkl"
+# Path to the pickle file (ensure it's publicly accessible)
+pickle_url = "https://raw.githubusercontent.com/jk-vishwanath/Cotiviti_POC/main/Code_with_ouput_and_dataset/model.pkl"
 
 # Function to load the pickle file
 def load_model(pickle_url):
