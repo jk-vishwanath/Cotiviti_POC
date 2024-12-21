@@ -10,11 +10,23 @@ from nltk.stem import WordNetLemmatizer
 import string
 import pandas as pd
 
-# Download NLTK resources
-nltk.download('punkt')
-nltk.download('stopwords')
-nltk.download('wordnet')
-nltk.download('omw-1.4')
+import streamlit as st
+import pickle
+import pandas as pd
+import nltk
+import string
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+
+# Ensure the app looks in the local nltk_data folder
+nltk.data.path.append('https://github.com/jk-vishwanath/CCSS/tree/main/nltk_data')
+
+# Download necessary NLTK resources (only if not already downloaded)
+nltk.download('punkt', download_dir='https://github.com/jk-vishwanath/CCSS/tree/main/nltk_data')
+nltk.download('stopwords', download_dir='https://github.com/jk-vishwanath/CCSS/tree/main/nltk_data')
+nltk.download('wordnet', download_dir='https://github.com/jk-vishwanath/CCSS/tree/main/nltk_data')
+nltk.download('punkt_tab', download_dir='https://github.com/jk-vishwanath/CCSS/tree/main/nltk_data')
+
 
 # Path to the pickle file
 pickle_url = "https://github.com/jk-vishwanath/Cotiviti_POC/raw/main/Code_with_ouput_and_dataset/model.pkl"
